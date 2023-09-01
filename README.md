@@ -1,5 +1,11 @@
 # yay
 
-welcome to the shittiest repo ever!\
-Made in HTML! WOW!\
-This is basically me studying some stuff. Git and all that stuff
+Repositório do site gabsfrmarqs.boo\
+Este site é só um teste, estou o utilizando para treinar como usar servidores apache, até agora já usei:\
+- JavaScript (só pra teste!)
+- CSS
+- Nginx Proxy Manager
+- Docker
+- Várias coisas top
+
+Acesse [aqui]("www.gabsfrmarqs.boo")
