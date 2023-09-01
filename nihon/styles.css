@@ -1,0 +1,33 @@
+/*
+@font-face{
+	font-family: 'Comic Sans Local';
+	src: url("comicsans/COMIC.TTF");
+}
+.comic {
+	font-family: "Comic Sans Local";
+}
+*/
+body{
+	background-color: pink;
+}
+h1{
+	color: dark_red;
+	font-family: 'Comic Sans MS';
+	font-size: 300%;
+}
+h2{
+	color: black;
+	font-family: 'Arial';
+	font-size:200%;
+}
+h3{
+	color:  black;
+	font-family: 'Arial';
+	font-size: 150%;
+}
+p{
+	color: red;
+	font-family: 'Arial';
+	font-size: 100%;
+}
+

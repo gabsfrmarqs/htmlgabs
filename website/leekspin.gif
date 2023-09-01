@@ -1,0 +1,15 @@
+--2023-09-01 10:32:38--  https://upload.wikimedia.org/wikipedia/en/9/9d/Loituma.gif
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 208.80.154.240, 2620:0:861:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|208.80.154.240|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232005 (227K) [image/gif]
+Saving to: ‘Loituma.gif’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  471K 0s
+   100K .......... .......... .......... .......... .......... 66%  756K 0s
+   150K .......... .......... .......... .......... .......... 88% 1.02M 0s
+   200K .......... .......... ......                          100% 1.26M=0.5s
+
+2023-09-01 10:32:39 (470 KB/s) - ‘Loituma.gif’ saved [232005/232005]
+
