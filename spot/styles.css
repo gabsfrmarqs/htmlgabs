@@ -7,6 +7,9 @@
 	font-family: "Comic Sans Local";
 }
 */
+body{
+	background-color: 'light_pink';
+}
 h1{
 	color: dark_red;
 	font-family: 'Comic Sans MS';
