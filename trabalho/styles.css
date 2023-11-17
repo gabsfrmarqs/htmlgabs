@@ -8,11 +8,11 @@
 }
 */
 body{
-	background-image: url("vista.jpg");
+	background-image: url('vista.jpg');
 }
 h1{
 	color: dark_red;
-	font-family: 'Comic Sans MS';
+	font-family: 'comicsans/COMIC.TTF';
 	font-size: 300%;
 }
 h2{
