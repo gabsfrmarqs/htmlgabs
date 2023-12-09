@@ -30,4 +30,8 @@ p{
 	font-family: 'Arial';
 	font-size: 100%;
 }
-
+small{
+	color: black;
+	font-family: 'Arial';
+	font-size: 80%;
+}
