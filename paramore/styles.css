@@ -1,0 +1,40 @@
+body{
+	background-image: url("back.jpg");
+	background-color: pink;
+	
+}
+h1{
+	color: white;
+	font-family: 'Arial';
+	font-size: 300%;
+	text-shadow: 2px 0 #000, -2px 0 #fff, 0 2px #000, 0 -2px #fff,
+             1px 1px #000, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+h2{
+	color: #FFFFFF;
+	font-family: 'Arial';
+	font-size:200%;
+	text-shadow: 1px 0 #000;
+}
+h3{
+	color:  black;
+	font-family: 'Arial';
+	font-size: 150%;
+}
+p{
+	color: white;
+	font-family: 'Arial';
+	font-size: 100%;
+	text-shadow: 1px 0 #000;
+}
+small{
+	color: black;
+	font-family: 'Arial';
+	font-size: 80%;
+}
+li{
+	color: #FFFFFF;
+	font-family: 'Arial';
+	font-size: 100%;
+	text-shadow: 1px 0 #000;
+}
